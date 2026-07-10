@@ -35,7 +35,7 @@ Before running this project, ensure you have the following installed:
 ## ⚙️ Getting Started
 
 ### 1. Clone the Repository
-```bash
+bash
 git clone <repository-url>
 cd <project-directory>
 
@@ -47,6 +47,6 @@ cd <project-directory>
 <img width="1919" height="1079" alt="Screenshot 2026-07-08 154600" src="https://github.com/user-attachments/assets/2177d431-3163-4efa-afae-7110cecb0417" />
 <img width="1919" height="1079" alt="Screenshot 2026-07-08 160817" src="https://github.com/user-attachments/assets/bb0bab80-2e3f-42ea-a229-0cf167e0d113" />
 <img width="1912" height="1079" alt="Screenshot 2026-07-08 160501" src="https://github.com/user-attachments/assets/f69e0f3a-7759-4c46-bc7f-32cc4798f740" />
-
+```
 
 
